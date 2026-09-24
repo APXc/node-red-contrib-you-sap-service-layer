@@ -2,6 +2,10 @@
 
 All notable changes to this project will be documented in this file.
 
+# [0.2.16] - 2026-09-24
+
+- Bug Fix node authenticateSap for other library conflict
+
 # [0.2.15] - 2026-03-16
 
 - Bug Fix Response Manager on Service SAP
